@@ -2,7 +2,7 @@ package ciclos;
 
 import java.util.Scanner;
 
-public class EjercicioMultiplicacion {
+public class Ejercicio1Multiplicacion {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         int a, b, resultado = 0, originalA, originalB;
@@ -38,3 +38,4 @@ public class EjercicioMultiplicacion {
         entrada.close();
     }
 }
+
